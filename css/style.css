@@ -163,10 +163,8 @@ body {
 
 .page__advantages {
 }
-
 .page__practice {
 }
-
 .page__whoweare {
 }
 
@@ -176,10 +174,8 @@ body {
 
 .page__subscribe {
 }
-
 .page__getintouch {
 }
-
 .page__contact {
 }
 
@@ -211,7 +207,7 @@ body {
     }
 }
 
-@media (max-width: 992px) {
+@media (max-width: 767px) {
     .header-block__title {
         font-size: 30px;
     }
